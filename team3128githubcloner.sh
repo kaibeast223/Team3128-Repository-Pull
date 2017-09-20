@@ -1,4 +1,5 @@
 Cd /Desktop/GITHUB_TEAM3128
+Say starting up
 Git clone https://github.com/Team3128/2017-18-attendance-data.git
 Git clone https://github.com/Team3128/team3128.github.io.git
 Git clone https://github.com/Team3128/3128-robot-common.git
@@ -16,4 +17,5 @@ Git clone https://github.com/Team3128/bot.git
 Git clone https://github.com/Team3128/attendance-scripts.git
 Git clone https://github.com/Team3128/robot-data.git
 Git clone https://github.com/Team3128/Dashbored.git
+Say now done with cloning all files have been updated/pulled
 
